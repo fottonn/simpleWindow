@@ -17,6 +17,8 @@ repositories {
 dependencies{
     // this dependency is only required when using UserJvmOptionsService
     // compile files("${System.properties['java.home']}/../lib/packager.jar")
+
+    compile 'org.controlsfx:controlsfx:8.40.11'
 }
 
 apply plugin: 'javafx-gradle-plugin'

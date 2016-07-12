@@ -10,6 +10,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="simpleWindow_main" />
+    <orderEntry type="library" name="Gradle: org.controlsfx:controlsfx:8.40.11" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="simpleWindow_main" />
 </module>
